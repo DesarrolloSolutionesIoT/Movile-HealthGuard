@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_menu__1_.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\menu__1_.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_ingresar_datos_login.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_ingresar_datos_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_btn_perfil.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\btn_perfil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_historial_medico.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_historial_medico.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_prototype_alergiahistorial.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\prototype_alergiahistorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_historial_masa.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\historial_masa.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_btn_notificaciones.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\btn_notificaciones.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_cita_formato_card.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\cita_formato_card.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_anciano__1_.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\anciano__1_.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_warning_.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\warning_.png"
+    },
+    {
+        "merged": "com.caretech.careconnect.app-merged_res-47:/layout_activity_ingresar_datos_login.xml.flat",
+        "source": "com.caretech.careconnect.app-main-49:/layout/activity_ingresar_datos_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_pago_realizado.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\pago_realizado.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_candado.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\candado.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_historial_medico_resumen.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_historial_medico_resumen.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_historial_altura.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\historial_altura.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_icono_sacar_cita.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\icono_sacar_cita.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_rol_cuenta.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_rol_cuenta.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_patients_cita.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_patients_cita.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_prototype_doctors_cita.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\prototype_doctors_cita.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_logo_png.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\logo_png.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_historial_antecedentes.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\historial_antecedentes.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_sacar_cita_button.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\sacar_cita_button.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_patient_edit_personal_information.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_patient_edit_personal_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.caretech.careconnect.app-merged_res-47:/layout_activity_ingresar_datos_registro.xml.flat",
+        "source": "com.caretech.careconnect.app-main-49:/layout/activity_ingresar_datos_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_coin_svgrepo_com.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\coin_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_ingresar_datos_registro.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_ingresar_datos_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_flechaa_derecha.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\flechaa_derecha.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_btn_ajustes.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\btn_ajustes.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_doctor.jpeg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\doctor.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_cerrar_sesion.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\cerrar_sesion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_back.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_inicio.jpeg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\inicio.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_historial_peso.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\historial_peso.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_patient_view_profile.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_patient_view_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_back_white.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_cita_doctor_2.jpeg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\cita_doctor_2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_cita_doctor_1.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\cita_doctor_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_historial_info_general.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\historial_info_general.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_ingresos_pagos.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_ingresos_pagos.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_patient_menu.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_patient_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_pago_realizado.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_pago_realizado.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_historial_alergias.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\historial_alergias.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_prototype_ingresos_pagos.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\prototype_ingresos_pagos.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_icono_historial_medico.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\icono_historial_medico.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_doctors_cita.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_doctors_cita.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_prototype_patients_cita.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\prototype_patients_cita.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_seleccionar_fecha.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_seleccionar_fecha.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_pago_cita.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_pago_cita.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_btn_inicio.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\btn_inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\layout_activity_rol_cuenta_register.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\layout\\activity_rol_cuenta_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-merged_res-47:\\drawable_paciente.jpeg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.6\\com.caretech.careconnect.app-main-49:\\drawable\\paciente.jpeg"
+    }
+]
